@@ -95,7 +95,9 @@
       "title": "product 12",
       "rating": 4.3,
       "brand": "brand3"
-    },
+    }
+  ],
+  "product2" : [
     {
       "id": 13,
       "price": 238.12,
